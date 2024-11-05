@@ -189,7 +189,7 @@ nav .fa-solid {
 }
 
 .container .img {
-    background-image: url("Files/Images/N-Shan.jpg");
+    background-image: url("../Files/Images/N-Shan.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 25rem;
